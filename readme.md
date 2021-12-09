@@ -24,3 +24,6 @@
                  $ git init
 
 
+## Создание «сохранений»
+
+тут и add, и status, и commit)
